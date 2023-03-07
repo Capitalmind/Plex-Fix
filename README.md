@@ -1,6 +1,6 @@
 # Plexfix (read/write) Bash Script
 
-This script is designed to help set up read/write and group permissions for a Plex media server by requested media paths on a Linux machine. It automates the process of setting ownership and permissions for media files and directories, making it easier to manage your media library.
+This script is designed to help set up read/write and group permissions for a Plex media server on a Linux machine. It automates the process of setting ownership and permissions for media files and directories, making it easier to manage your media library.
 
 I created this after having these issues myself and needing a fix I can replicate especially when restoring a library after a fresh install.
 
