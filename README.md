@@ -1,4 +1,4 @@
-Plexfix (read/write) Bash Script
+***Plexfix (read/write) Bash Script***
 
 This script is designed to help set up read/write and group permissions for a Plex media server by requested media paths on a Linux machine. It automates the process of setting ownership and permissions for media files and directories, making it easier to manage your media library.
 
@@ -13,9 +13,11 @@ Usage
 Download or copy the plex-setup.sh script to your Linux machine.
 Open a terminal and navigate to the directory containing the script.
 Run the script with the following command:
-bash
-Copy code
-sudo ./plex-setup.sh
+
+**bash**
+
+[sudo ./plex-setup.sh]
+
 Follow the prompts to specify the paths to your media directories. You can either provide a single path or a list of paths.
 Once you've specified all the paths, the script will set ownership and permissions for the media files and directories.
 After the script completes, Plex Media Server should be able to access your media files and add them to your library.
